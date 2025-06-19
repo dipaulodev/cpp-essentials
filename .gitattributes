@@ -1,0 +1,12 @@
+# Normaliza los finales de línea a LF internamente
+* text=auto
+
+# Fuerza archivos de código fuente a usar LF (opcionalmente más explícito)
+*.cpp text eol=lf
+*.h   text eol=lf
+*.c   text eol=lf
+
+# Archivos por defecto como README, scripts
+*.md  text eol=lf
+*.sh  text eol=lf
+*.txt text eol=lf
