@@ -1,2 +1,7 @@
 #archivos y carpetas de vscode
 .vscode/
+
+# Archivos binarios de compilación
+*.exe
+*.out
+*.o
